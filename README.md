@@ -47,7 +47,7 @@ A simple interface for Coqui-TTS (XTTSv2) technology, optimized for NVIDIA RTX g
 2. Open a terminal (CMD or PowerShell), navigate to your desired directory and clone the repository:
    ```bash
    git clone https://github.com/alkemiik-coder/GRADIO-XTTSv2-PL.git
-   cd [FOLDER_NAME]
+   cd GRADIO-XTTSv2-PL
    ```
 3. Run the **`INSTALL.bat`** file by double-clicking it.
 4. Wait for the process to finish (it may take 5 to 15 minutes). Once complete, the application will open automatically in your browser at `http://127.0.0.1:7860`.
@@ -64,5 +64,6 @@ All voices included in the `targets` folder are under the **"Madafaka Free"** li
 
 ---
 *Ciesz się szybką generacją mowy! / Enjoy your fast speech generation!*
+
 
 
