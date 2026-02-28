@@ -13,8 +13,8 @@ Prosty interfejs dla technologii Coqui-TTS (XTTSv2) zoptymalizowany dla kart gra
 1. Zainstaluj **Git** w swoim systemie (pobierz z [git-scm.com](https://git-scm.com/)).
 2. Otwórz terminal (CMD lub PowerShell), przejdź do folderu gdzie chcesz trzymać projekt i pobierz repozytorium:
    ```bash
-   git clone [ADRES_REPOZYTORIUM]
-   cd [NAZWA_FOLDERU]
+   git clone https://github.com/alkemiik-coder/GRADIO-XTTSv2-PL.git
+   cd GRADIO-XTTSv2-PL
    ```
 3. Uruchom plik **`INSTALL.bat`** dwukrotnym kliknięciem.
 4. Poczekaj na zakończenie procesu (może to zająć od 5 do 15 minut). Po wszystkim aplikacja uruchomi się automatycznie w przeglądarce pod adresem `http://127.0.0.1:7860`.
@@ -64,3 +64,4 @@ All voices included in the `targets` folder are under the **"Madafaka Free"** li
 
 ---
 *Ciesz się szybką generacją mowy! / Enjoy your fast speech generation!*
+
