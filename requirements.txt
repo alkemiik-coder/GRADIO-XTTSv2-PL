@@ -1,0 +1,11 @@
+gradio==6.8.0
+coqui-tts==0.24.2
+soundfile==0.12.1
+transformers==4.42.4
+streamlit
+audio-recorder-streamlit
+numpy==1.26.4
+pandas==2.0.3
+markupsafe>=2.1.5
+networkx>=2.8.4
+pillow>=10.4.0
